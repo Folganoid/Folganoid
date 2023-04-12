@@ -17,7 +17,7 @@ a master's degree in engineering and I'm 41 years old.
 <br />
 
 <samp>
-<b align="left">
+<b align="center">
 Connect with me:
 </b>
 <a href="https://t.me/andreygol69/" target="_blank"> <img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon-thumbnail.png" alt="telegram" width="70" height="16"/></a>
@@ -28,10 +28,10 @@ Connect with me:
 </p>
 
 ---
-<h3 align="left">
+<h3 align="center">
   <samp>Languages and Tools:</samp>
 </h3>
-<p align="left">
+<p align="center">
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="30" height="30"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://friconix.com/png/fi-snsuxs-php-logo.png" alt="php" width="30" height="30"/></a>
@@ -40,7 +40,9 @@ Connect with me:
 <a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" alt="wordpress" width="30" height="30"/></a>
 <a href="https://phpunit.de/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_phpunit_icon_130262.png" alt="phpunit" width="30" height="30"/></a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="expressjs" width="30" height="30"/></a>
+</p>
 
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="30" height="30"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
@@ -53,7 +55,9 @@ Connect with me:
 <a href="https://jquery.com/" target="_blank"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jquery" width="30" height="30"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" alt="bootstrap" width="30" height="30"/></a>
 <a href="https://getuikit.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uikit.svg" alt="uikit" width="30" height="30"/></a>
+</p>
 
+<p align="center">
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
 <a href="https://clickhouse.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse" width="30" height="30"/></a>
@@ -61,6 +65,7 @@ Connect with me:
 <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png" alt="s3" width="30" height="30"/></a>
 <a href="https://memcached.org/" target="_blank"> <img src="https://www.instana.com/media/01_INSTANA_IconSet_memcached.svg" alt="memcached" width="30" height="30"/></a>
 
+<p align="center">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
@@ -75,7 +80,7 @@ Connect with me:
 </p>
 
 ---
-<h3 align="left">
+<h3 align="center">
   <samp>Courses and certificates:</samp>
 </h3>
 

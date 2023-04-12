@@ -13,7 +13,7 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" alt="laravel" width="40" height="40"/></a>
 <a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a>
 <a href="https://phpunit.de/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_phpunit_icon_130262.png" alt="phpunit" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="expressjs" width="40" height="40"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -40,7 +40,7 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://appthisway.com/wp-content/uploads/2018/08/nginx-logo.png" alt="nginx" width="40" height="40"/></a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="eslint" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"> <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" alt="restapi" width="40" height="40"/></a>
 <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/></a>
@@ -55,7 +55,7 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 
 <b>2023.03-2023.07:</b> <a href="https://rs.school/react/">RS School – ReactJS course</a>
 <br />
-<a href="#"><img src="https://www.seekpng.com/png/full/137-1379498_work-in-progress.png" alt="certificate" width="40" height="40"/></a>
+<a href="#"><img src="https://as2.ftcdn.net/v2/jpg/04/75/30/35/1000_F_475303500_aVB6cSdQy01VP4NmFHDr4HpZklSRZfQm.jpg" alt="certificate" width="40" height="40"/></a>
 <br />
 
 <b>2022.09 - 2023.03:</b> <a href="https://rs.school/js/">RS School – JS/TS Front-end development</a>

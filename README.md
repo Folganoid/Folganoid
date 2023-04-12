@@ -16,13 +16,15 @@ a master's degree in engineering and I'm 41 years old.
 <br />
 <br />
 
+<samp>
 <b align="left">
-  <samp>Connect with me:</samp>
+Connect with me:
 </b>
 <a href="https://t.me/andreygol69/" target="_blank"> <img src="https://w7.pngwing.com/pngs/1/41/png-transparent-telegram-button-icon-thumbnail.png" alt="telegram" width="70" height="16"/></a>
-<a href="https://www.linkedin.com/in/andrey-golubkov/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LinkedIn_Logo_%28with_%C2%AE%29.svg/150px-LinkedIn_Logo_%28with_%C2%AE%29.svg.png" alt="linkedin" width="70" height="16"/></a>
+<a href="https://www.linkedin.com/in/andrey-golubkov/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LinkedIn_Logo_%28with_%C2%AE%29.svg/150px-LinkedIn_Logo_%28with_%C2%AE%29.svg.png" alt="linkedin" width="70" height="16"/></a>
 <a href="https://www.facebook.com/profile.php?id=100014346432536" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Facebook_logo_2015.jpeg?20150702144944" alt="facebook" width="60" height="16"/></a>
 <a href="mailto: folganoid@yahoo.com"> <img src="https://icon-library.com/images/small-email-icon/small-email-icon-29.jpg" alt="email" width="20" height="16"/></a>
+</samp>
 </p>
 
 ---
@@ -80,7 +82,7 @@ a master's degree in engineering and I'm 41 years old.
 [<img align="left" height="45px" width="45px" alt="certificate" src="https://as2.ftcdn.net/v2/jpg/04/75/30/35/1000_F_475303500_aVB6cSdQy01VP4NmFHDr4HpZklSRZfQm.jpg"/>](#)
 
 <samp>&nbsp;&nbsp;<b>2023.03-2023.07:</b>\
-&nbsp;&nbsp;[**RS School – ReactJS course**](href="https://rs.school/react/)</samp>
+&nbsp;&nbsp;[**RS School – ReactJS course**](https://rs.school/react/)</samp>
 <br/>
 
 [<img align="left" height="45px" width="45px" alt="certificate" src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png"/>](https://app.rs.school/certificate/6khc4ykt/)
@@ -91,8 +93,5 @@ a master's degree in engineering and I'm 41 years old.
 
 [<img align="left" height="40px" width="40px" alt="certificate" src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png"/>](https://www.mindk.com/certificates/5970abf2c645c77074255422/)
 
-<samp>&nbsp;&nbsp;<b>2016.12 - 2017.07:</b>\
-&nbsp;&nbsp;[**Mind.K – Modern Web Development**](http://www.learn.mindk.com/)</samp>
-<br/>
-
-[![Codewars Badge](https://www.codewars.com/users/Folganoid/badges/large)](https://www.codewars.com/users/Folganoid)
+<samp>&nbsp;&nbsp;&nbsp;<b>2016.12 - 2017.07:</b>\
+&nbsp;&nbsp;&nbsp;[**Mind.K – Modern Web Development**](http://www.learn.mindk.com/)</samp>

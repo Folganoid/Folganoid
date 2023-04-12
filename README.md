@@ -106,6 +106,9 @@ Connect with me:
   <samp>Metrics:</samp>
 </h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Folganoid&theme=react)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=folganoid&theme=react)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=folganoid&theme=react)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Folganoid&theme=graywhite" alt="Profile Details" />
+</div><div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=folganoid&theme=graywhite" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=folganoid&theme=graywhite" alt="Profile Details" />
+</div>

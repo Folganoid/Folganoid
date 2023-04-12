@@ -52,38 +52,22 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 ---
 <h3 align="left">Courses and certificates:</h3>
 
-<div style="display: flex;">
+<b>2023.03-2023.07:</b> <a href="https://rs.school/react/">RS School – ReactJS course</a>
+<br />
 <a href="#"><img src="https://www.seekpng.com/png/full/137-1379498_work-in-progress.png" alt="certificate" width="40" height="40"/></a>
-  <div style="width: 20px;"></div>
-  <div>
-    <b>2023.03-2023.07:</b>
-    <br />
-    <a href="https://rs.school/react/">RS School – ReactJS course</a>
-  </div>
-</div>
-<br />
-<div style="display: flex;">
-<a href="https://www.mindk.com/certificates/5970abf2c645c77074255422/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
-  <div style="width: 20px;"></div>
-  <div>
-    <b>2022.09 - 2023.03:</b>
-    <br />
-    <a href="https://rs.school/js/">RS School – JS/TS Front-end development</a>
-  </div>
-</div>
-<br />
-<div style="display: flex;">
-<a href="https://app.rs.school/certificate/6khc4ykt/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
-  <div style="width: 20px;"></div>
-  <div>
-    <b>2016.12 - 2017.07:</b>
-    <br />
-    <a href="http://www.learn.mindk.com/">Mind.K – Modern Web Development</a>
-  </div>
-</div>
 <br />
 
+<b>2022.09 - 2023.03:</b><br /><a href="https://rs.school/js/">RS School – JS/TS Front-end development</a>
+<br /><br />
+<a href="https://www.mindk.com/certificates/5970abf2c645c77074255422/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
+<br />
+
+<b>2016.12 - 2017.07:<br /></b> <a href="http://www.learn.mindk.com/">Mind.K – Modern Web Development</a>
+<br /><br />
+<a href="https://app.rs.school/certificate/6khc4ykt/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">

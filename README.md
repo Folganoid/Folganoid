@@ -8,27 +8,26 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://friconix.com/png/fi-snsuxs-php-logo.png" alt="php" width="40" height="40"/></a>
 <a href="https://symfony.com/" target="_blank"> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="40" height="40"/></a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" alt="laravel" width="40" height="40"/></a>
 <a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a>
 <a href="https://phpunit.de/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_phpunit_icon_130262.png" alt="phpunit" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="expressjs" width="40" height="40"/></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/></a>
 <a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jquery" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://getuikit.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
-<a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
-
 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>

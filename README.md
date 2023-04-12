@@ -32,51 +32,51 @@ Connect with me:
   <samp>Languages and Tools:</samp>
 </h3>
 <p align="center">
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="30" height="30"/></a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://friconix.com/png/fi-snsuxs-php-logo.png" alt="php" width="30" height="30"/></a>
-<a href="https://symfony.com/" target="_blank"> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="30" height="30"/></a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" alt="laravel" width="30" height="30"/></a>
-<a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" alt="wordpress" width="30" height="30"/></a>
-<a href="https://phpunit.de/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_phpunit_icon_130262.png" alt="phpunit" width="30" height="30"/></a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="expressjs" width="30" height="30"/></a>
+<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://friconix.com/png/fi-snsuxs-php-logo.png" alt="php" width="40" height="40"/></a>
+<a href="https://symfony.com/" target="_blank"> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" alt="laravel" width="40" height="40"/></a>
+<a href="https://wordpress.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40"/></a>
+<a href="https://phpunit.de/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_phpunit_icon_130262.png" alt="phpunit" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Status_iucn_EX_icon.svg" alt="expressjs" width="40" height="40"/></a>
 </p>
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="30" height="30"/></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-<a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" width="30" height="30"/></a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/></a>
-<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="30" height="30"/></a>
-<a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="30" height="30"/></a>
-<a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="30" height="30"/></a>
-<a href="https://jquery.com/" target="_blank"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jquery" width="30" height="30"/></a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" alt="bootstrap" width="30" height="30"/></a>
-<a href="https://getuikit.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uikit.svg" alt="uikit" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="40" height="40"/></a>
+<a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/></a>
+<a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/></a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jquery" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://getuikit.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
 </p>
 
 <p align="center">
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/></a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>
-<a href="https://clickhouse.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse" width="30" height="30"/></a>
-<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://herve.beraud.io/images/blog/rabbitmq.png" alt="rabbitmq" width="30" height="30"/></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png" alt="s3" width="30" height="30"/></a>
-<a href="https://memcached.org/" target="_blank"> <img src="https://www.instana.com/media/01_INSTANA_IconSet_memcached.svg" alt="memcached" width="30" height="30"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://clickhouse.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse" width="40" height="40"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://herve.beraud.io/images/blog/rabbitmq.png" alt="rabbitmq" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png" alt="s3" width="40" height="40"/></a>
+<a href="https://memcached.org/" target="_blank"> <img src="https://www.instana.com/media/01_INSTANA_IconSet_memcached.svg" alt="memcached" width="40" height="40"/></a>
 
 <p align="center">
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/></a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://appthisway.com/wp-content/uploads/2018/08/nginx-logo.png" alt="nginx" width="30" height="30"/></a>
-<a href="https://eslint.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="eslint" width="30" height="30"/></a>
-<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"> <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" alt="restapi" width="30" height="30"/></a>
-<a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="30" height="30"/></a>
-<a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="webpack" width="30" height="30"/></a>
-<a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="30" height="30"/></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://i.pinimg.com/originals/5e/fd/4e/5efd4e04173b52c1c4d1f459679bf7fb.png" alt="figma" width="30" height="30"/></a>
-<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="30" height="30"/></a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://appthisway.com/wp-content/uploads/2018/08/nginx-logo.png" alt="nginx" width="40" height="40"/></a>
+<a href="https://eslint.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="eslint" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"> <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" alt="restapi" width="40" height="40"/></a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/></a>
+<a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="webpack" width="40" height="40"/></a>
+<a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://i.pinimg.com/originals/5e/fd/4e/5efd4e04173b52c1c4d1f459679bf7fb.png" alt="figma" width="40" height="40"/></a>
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/></a>
 </p>
 
 ---
@@ -100,3 +100,12 @@ Connect with me:
 
 <samp>&nbsp;&nbsp;&nbsp;<b>2016.12 - 2017.07:</b>\
 &nbsp;&nbsp;&nbsp;[**Mind.K – Modern Web Development**](http://www.learn.mindk.com/)</samp>
+
+---
+<h3 align="center">
+  <samp>Metrics:</samp>
+</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Folganoid&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=folganoid&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=folganoid&theme=react)

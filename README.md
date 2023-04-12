@@ -43,6 +43,7 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="eslint" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"> <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" alt="restapi" width="40" height="40"/></a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/></a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="webpack" width="40" height="40"/></a>
 <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://i.pinimg.com/originals/5e/fd/4e/5efd4e04173b52c1c4d1f459679bf7fb.png" alt="figma" width="40" height="40"/></a>
@@ -57,14 +58,14 @@ I have more than **5 years** of commercial experience as a programmer, a master'
 <a href="#"><img src="https://www.seekpng.com/png/full/137-1379498_work-in-progress.png" alt="certificate" width="40" height="40"/></a>
 <br />
 
-<b>2022.09 - 2023.03:</b><br /><a href="https://rs.school/js/">RS School – JS/TS Front-end development</a>
-<br /><br />
-<a href="https://www.mindk.com/certificates/5970abf2c645c77074255422/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
+<b>2022.09 - 2023.03:</b> <a href="https://rs.school/js/">RS School – JS/TS Front-end development</a>
+<br />
+<a href="https://app.rs.school/certificate/6khc4ykt/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
 <br />
 
-<b>2016.12 - 2017.07:<br /></b> <a href="http://www.learn.mindk.com/">Mind.K – Modern Web Development</a>
-<br /><br />
-<a href="https://app.rs.school/certificate/6khc4ykt/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
+<b>2016.12 - 2017.07:</b> <a href="http://www.learn.mindk.com/">Mind.K – Modern Web Development</a>
+<br />
+<a href="https://www.mindk.com/certificates/5970abf2c645c77074255422/"   target="_blank"><img src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png" alt="certificate" width="40" height="40"/></a>
 
 ---
 

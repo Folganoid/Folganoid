@@ -6,7 +6,7 @@
 
 <p align="center">
 <samp>
-I'm <b>Andrii Holubkov</b>, full-stack developer from <img src="https://www.pngall.com/wp-content/uploads/12/We-Support-Ukraine-Flag-PNG-Photo.png" alt="ua" width="15" height="15"/><b> <a target="_blank" href="https://en.wikipedia.org/wiki/Sumy/">Sumy, Ukraine</a></b>.
+I'm <b>Andrii Holubkov</b>, full-stack developer from <img src="https://www.pngall.com/wp-content/uploads/12/We-Support-Ukraine-Flag-PNG-Photo.png" alt="ua" width="15" height="15"/><b> <a target="_blank" href="https://en.wikipedia.org/wiki/Sumy">Sumy, Ukraine</a></b>.
 <br />
 I have more than <b>5 years</b> of commercial experience as a programmer,
 <br />

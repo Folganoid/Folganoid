@@ -6,7 +6,7 @@
 
 <p align="center">
 <samp>
-I'm <b>Andrii Holubkov</b>, full-stack developer from <img src="https://www.pngall.com/wp-content/uploads/12/We-Support-Ukraine-Flag-PNG-Photo.png" alt="ua" width="15" height="15"/><b> <a target="_blank" href="https://en.wikipedia.org/wiki/Sumy/">Sumy, Ukraine</a></b>.
+I'm <b>Andrii Holubkov</b>, full-stack developer from <img src="https://www.pngall.com/wp-content/uploads/12/We-Support-Ukraine-Flag-PNG-Photo.png" alt="ua" width="15" height="15"/><b> <a target="_blank" href="https://en.wikipedia.org/wiki/Sumy">Sumy, Ukraine</a></b>.
 <br />
 I have more than <b>5 years</b> of commercial experience as a programmer,
 <br />
@@ -49,13 +49,14 @@ Connect with me:
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/></a>
-<a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/></a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jquery" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://getuikit.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="webpack" width="40" height="40"/></a>
 <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40"/></a>
+<a href="https://vitest.dev/" target="_blank"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/></a>
+<a href="https://jestjs.io/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="40" height="40"/></a>
+<a href="https://www.cypress.io/" target="_blank"> <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png" alt="cypress" width="40" height="40"/></a>
 </p>
 
 <p align="center">

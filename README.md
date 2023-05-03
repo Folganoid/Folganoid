@@ -15,6 +15,10 @@ a master's degree in engineering and I'm 41 years old.
 <br />
 <br />
 <br />
+<a href="https://drive.google.com/file/d/1Ndvm9lgPn6LuADOggnbLtpR4KGNG2z4Y/view?usp=share_link" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
+<br />
+<br />
+<br />
 
 <samp>
 <b align="center">
@@ -49,7 +53,7 @@ Connect with me:
 <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://jquery.com/" target="_blank"> <img src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jquery" width="40" height="40"/></a>
+<a href="https://mui.com/" target="_blank"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="mui" width="40" height="40"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://getuikit.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/uikit.svg" alt="uikit" width="40" height="40"/></a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="webpack" width="40" height="40"/></a>
@@ -64,17 +68,14 @@ Connect with me:
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://clickhouse.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse" width="40" height="40"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://herve.beraud.io/images/blog/rabbitmq.png" alt="rabbitmq" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png" alt="s3" width="40" height="40"/></a>
-<a href="https://memcached.org/" target="_blank"> <img src="https://www.instana.com/media/01_INSTANA_IconSet_memcached.svg" alt="memcached" width="40" height="40"/></a>
 
 <p align="center">
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://appthisway.com/wp-content/uploads/2018/08/nginx-logo.png" alt="nginx" width="40" height="40"/></a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="eslint" width="40" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank"> <img src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b43bcfcec4ae2e50ca6e3_rest.svg" alt="restapi" width="40" height="40"/></a>
-<!-- <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/></a> -->
+<a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://i.pinimg.com/originals/5e/fd/4e/5efd4e04173b52c1c4d1f459679bf7fb.png" alt="figma" width="40" height="40"/></a>
 <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"> <img src="https://play-lh.googleusercontent.com/y92LD5c5rdlNfquCy-YPNIvdnS4ISEL05wickp28OLya8WlmWQwXfAP0Yys9iTssny3K=w240-h480-rw" alt="autocad" width="40" height="40"/></a>
 </p>
@@ -103,7 +104,7 @@ Connect with me:
 
 ---
 <h3 align="center">
-  <samp>Metrics:</samp>
+  <samp>GitHub metrics:</samp>
 </h3>
 
 <div align="center">

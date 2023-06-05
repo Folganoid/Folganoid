@@ -1,5 +1,5 @@
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/Folganoid?v=3)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Folganoid&countColor=%23539fc5&style=plastic&labelStyle=none)
 <h3 align="center">
         <samp> > Hi! Nice to see you.</samp>
 </h3>

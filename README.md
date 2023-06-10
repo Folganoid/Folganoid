@@ -87,12 +87,6 @@ Connect with me:
   <samp>Courses and certificates:</samp>
 </h3>
 
-[<img align="left" height="45px" width="45px" alt="certificate" src="https://as2.ftcdn.net/v2/jpg/04/75/30/35/1000_F_475303500_aVB6cSdQy01VP4NmFHDr4HpZklSRZfQm.jpg"/>](#)
-
-<samp>&nbsp;&nbsp;<b>2023.06-2023.09:</b>\
-&nbsp;&nbsp;[**RS School – NodeJS course**](https://rs.school/nodejs/)</samp>
-<br/>
-
 [<img align="left" height="45px" width="45px" alt="certificate" src="https://icons.iconarchive.com/icons/custom-icon-design/pretty-office-10/512/Diploma-Certificate-icon.png"/>](https://app.rs.school/certificate/ozuuep31)
 
 <samp>&nbsp;&nbsp;<b>2023.03-2023.06:</b>\

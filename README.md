@@ -15,8 +15,8 @@ a master's degree in engineering and I'm 43 years old.
 <br />
 <br />
 <br />
-<a href="https://drive.google.com/file/d/1HGmzJUQNBLlXOjeiVjQ24o4tvvANU3xx/view?usp=sharing" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
-<a href="https://drive.google.com/file/d/14eV6NuOUsm7JUlkC_FP2g2hz8SLKbKFx/view?usp=sharing" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
+<a href="https://drive.google.com/file/d/1TiQ6FpElDme3GjEZMIkAuefAeuWYcJYS/view?usp=drive_link" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
+<a href="https://drive.google.com/file/d/1Bec9aPD9pmfq1t7zCMDLQoomYxhtHAy9/view?usp=drive_link" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
 <p align="center"><samp>EN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UA</samp</p>
 <br />
 <br />

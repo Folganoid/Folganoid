@@ -10,7 +10,7 @@ I'm <b>Andrii Holubkov</b>, full-stack developer from <img src="https://www.pnga
 <br />
 I have more than <b>5 years</b> of commercial experience as a programmer,
 <br />
-a master's degree in engineering and I'm 41 years old.
+a master's degree in engineering and I'm 43 years old.
 </samp>
 <br />
 <br />

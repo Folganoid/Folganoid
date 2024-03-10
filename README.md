@@ -15,7 +15,7 @@ a master's degree in engineering and I'm 43 years old.
 <br />
 <br />
 <br />
-<a href="https://drive.google.com/file/d/1TiQ6FpElDme3GjEZMIkAuefAeuWYcJYS/view?usp=drive_link" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
+<a href="https://drive.google.com/file/d/1pFoQix6wDotcf0_5Hof6rIv3utjbTlil/view?usp=drive_link" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
 <a href="https://drive.google.com/file/d/1Bec9aPD9pmfq1t7zCMDLQoomYxhtHAy9/view?usp=drive_link" target="_blank"> <img src="https://pngimg.com/uploads/cv/cv_PNG30.png" alt="CV" height="100px" /></a>
 <p align="center"><samp>EN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UA</samp</p>
 <br />
@@ -39,7 +39,7 @@ Connect with me:
 </h3>
 <p align="center">
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.soat.fr/assets/images/formation/NodeJS.png" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.php.net/" target="_blank"> <img src="https://friconix.com/png/fi-snsuxs-php-logo.png" alt="php" width="40" height="40"/></a>
 <a href="https://symfony.com/" target="_blank"> <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="symfony" width="40" height="40"/></a>
 <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" alt="laravel" width="40" height="40"/></a>
